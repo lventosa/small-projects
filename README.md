@@ -10,7 +10,7 @@ Compilation of small personal data science projects done in my free time for sel
 
 This simple project analyzes the geographical location and the different types of breweries in the United States. The majority of the analysis explores the relationship between states and types of breweries. Patterns on the names of the different breweries are explored as well. Moreover, basic data visualization techniques are performed across the whole project.
 
-Language: **Python**. Status: Completed ✔️
+Language: **Python**. Status: Work in progress 🛠️
 
 Project notebook available [here](./us-breweries/us-breweries.ipynb).
 

@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Small Projects
 Compilation of small personal data science projects done in my free time for self-learning/entertainment purposes. This is a work in progress. 
 
 ## Table of Contents
@@ -29,3 +29,4 @@ TBD
 Language: **Julia**. Status: Early stage 🐣
 
 Project notebook available [here](./wikipedia-mathematicians/mathematicians-of-wikipedia.ipynb).
+

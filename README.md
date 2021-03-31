@@ -5,6 +5,7 @@ Compilation of small personal data science projects done in my free time for sel
 1. [US Breweries Analysis](#breweries)
 2. [Who painted what? Artist Prediction Model](#artists)
 3. [Mathematicians of Wikipedia](#mathematicians)
+4. [Economics of Coffee](#coffee)
 
 ### **US Breweries Analysis** <a name="breweries"></a>
 
@@ -29,4 +30,12 @@ TBD
 Language: **Julia**. Status: Early stage 🐣
 
 Project notebook available [here](./wikipedia-mathematicians/mathematicians-of-wikipedia.ipynb).
+
+### **Economics of Coffee** <a name="coffee"></a>
+
+TBD
+
+Language: **Julia**. Status: Early stage 🐣
+
+Project notebook available here.
 
